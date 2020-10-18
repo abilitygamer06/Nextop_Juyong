@@ -1,19 +1,23 @@
+#include "opencv2/opencv.hpp"
 #include <iostream>
 
 using namespace std;
-
-int fiv(int n) {
-	if (n == 0) return 0;
-	else if (n >= 1) return n + fiv(n - 1);
-}
+using namespace cv;
 
 int main(void) {
+	cout << "Hello OpenCV" << CV_VERSION << endl;
 
-	int N;
+	Mat img;
+	img = imread("lena.jpg");
 
-	cin >> N;
+	if (img.empty()) {
+		cerr << "Image load failed!" << endl;
+		return -1;
+	}
 
-	cout << fiv(N) << endl;
+	namedWindow("image");
+	imshow("image", img);
 
+	waitKey();
 	return 0;
 }
