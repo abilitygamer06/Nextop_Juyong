@@ -2,6 +2,10 @@
 
 소스.cpp - opencv 49쪽 영상을 화면에 출력하기
 
+MatOp3.cpp - opencv 94쪽 영상의 부분 영상 반전하기
+
+rainbow.cpp - opencv를 이용한 무지개색 만들기
+
 matrix.cpp - 자료구조 85쪽 행렬 예제
 
 pointer.cpp - 자료구조 93쪽 포인터 예제
