@@ -9,3 +9,5 @@ rainbow.cpp - opencv를 이용한 무지개색 만들기
 matrix.cpp - 자료구조 85쪽 행렬 예제
 
 pointer.cpp - 자료구조 93쪽 포인터 예제
+
+array4.cpp - 자료구조 98쪽 문제 4
