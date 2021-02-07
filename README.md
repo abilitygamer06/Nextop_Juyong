@@ -19,3 +19,5 @@ boomstr.cpp - 백준 문자열 폭발
 q.cpp - 백준 queue
 
 dek.cpp - 백준 deque
+
+opencv.cpp - 5장 명암비2 ~ 6장 영상 논술
