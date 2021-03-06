@@ -13,20 +13,28 @@ int main(void) {
 		cin >> maze[i];
 	}
 
-	int dxdy[4][2] = { (0, 1), (0, -1), (1, 0), (-1, 0) };
+	int dxdy[4][2] = { {0, 1}, {0, -1}, {1, 0}, {-1, 0} };
 
 	vector<vector<int>> v(n, vector<int>(m, 0));
 	queue<pair<int, int>> q;
-	
+
 	q.push({ 0, 0 });
 	v[0][0] = 1;
 	while (!q.empty()) {
 		pair<int, int> p = q.front();
 		q.pop();
 		for (int i = 0; i < 4; i++) {
-			if (0 <= p.first + dxdy[i][0] <= n && 0 <= p.second + dxdy[i][1] <= m && maze[p.first + dxdy[i][0]][p.second + dxdy[i][1]] == 1 && v[p.first + dxdy[i][0]][p.second + dxdy[i][1]] == 0) {
-				v[p.first + dxdy[i][0]][p.second + dxdy[i][1]] = v[p.first][p.second] + 1;
-				q.push({ p.first + dxdy[i][0] ,p.second + dxdy[i][1] });
+			int dx = dxdy[i][0];
+			int dy = dxdy[i][1];
+
+			int nowx = p.first + dx;
+			int nowy = p.second + dy;
+
+			if (nowx >= 0 && nowx < n && nowy >= 0 && nowy < m) {
+				if (maze[nowx][nowy] - '0' == 1 && v[nowx][nowy] == 0) {
+					v[nowx][nowy] = v[p.first][p.second] + 1;
+					q.push({ nowx, nowy });
+				}
 			}
 		}
 	}
