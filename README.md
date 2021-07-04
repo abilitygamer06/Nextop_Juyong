@@ -27,3 +27,5 @@ opencv.cpp - 5장 명암비2 ~ 6장 영상 논술
 토마토.cpp - 백준 토마토(미완성)
 
 eraser.cpp - 정보올림피아드 지우개 문제
+
+지렁이바이러스.cpp 백준 웜바이러스 문제 https://www.acmicpc.net/problem/2606
