@@ -28,8 +28,10 @@ opencv.cpp - 5장 명암비2 ~ 6장 영상 논술
 
 eraser.cpp - 정보올림피아드 지우개 문제
 
-지렁이바이러스.cpp 백준 웜바이러스 문제 https://www.acmicpc.net/problem/2606
+지렁이바이러스.cpp - 백준 웜바이러스 문제 https://www.acmicpc.net/problem/2606
 
-jungsutriangle.cpp 백준 정수 삼각형 문제 https://www.acmicpc.net/problem/1932
+jungsutriangle.cpp - 백준 정수 삼각형 문제 https://www.acmicpc.net/problem/1932
 
-longseq.cpp 백준 가장 긴 증가하는 부분 수열(미완성) https://www.acmicpc.net/problem/11053
+longseq.cpp - 백준 가장 긴 증가하는 부분 수열(미완성) https://www.acmicpc.net/problem/11053
+
+기능개발.cpp - 프로그래머스 큐/스택 기능개발
