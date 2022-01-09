@@ -25,14 +25,14 @@
 ### 백준
 |코드|문제|성공여부|
 |:---:|:---:|:---:|
-|[boomstr.cpp](../main/backjoon/boomstr.cpp)|백준 문자열 폭발|성공|
-|[q.cpp](../main/backjoon/q.cpp)|백준 queue|성공|
-|[dek.cpp](../main/backjoon/dek.cpp)|백준 deque|성공|
-|[미로탐색.cpp](../main/backjoon/미로탐색.cpp)|백준 미로탐색|성공|
-|[토마토.cpp](../main/backjoon/토마토.cpp)|백준 토마토|미완성|
+|[boomstr.cpp](../main/backjoon/boomstr.cpp)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|성공|
+|[q.cpp](../main/backjoon/q.cpp)|[큐](https://www.acmicpc.net/problem/10845)|성공|
+|[dek.cpp](../main/backjoon/dek.cpp)|[덱](https://www.acmicpc.net/problem/10866)|성공|
+|[미로탐색.cpp](../main/backjoon/미로탐색.cpp)|[미로탐색](https://www.acmicpc.net/problem/2178)|성공|
+|[토마토.cpp](../main/backjoon/토마토.cpp)|[토마토](https://www.acmicpc.net/problem/7576)|미완성|
 |[지렁이바이러스.cpp](../main/backjoon/지렁이바이러스.cpp)|[지렁이 바이러스](https://www.acmicpc.net/problem/2606)|성공|
 |[jungsutriangle.cpp](../main/backjoon/jungsutriangle.cpp)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|성공|
-|[longseq.cpp](../main/backjoon/longseq.cpp)|[백준 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|미완성|
+|[longseq.cpp](../main/backjoon/longseq.cpp)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|미완성|
 
 ***
 
