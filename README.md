@@ -59,3 +59,7 @@ eraser.cpp - 정보올림피아드 지우개 문제
 _.cpp - loneny photo
 
 ***
+
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
