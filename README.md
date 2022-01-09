@@ -60,6 +60,6 @@ _.cpp - loneny photo
 
 ***
 
-Link: [Google][googlelink]
+Link: [][googlelink]
 
 [googlelink]: https://google.com "Go google"
