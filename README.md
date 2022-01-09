@@ -4,6 +4,7 @@
 
 ### Open CV
 |asdsd|
+|:---:|
 [소스.cpp](../main/소스.cpp) - opencv 49쪽 영상을 화면에 출력하기
 
 MatOp3.cpp - opencv 94쪽 영상의 부분 영상 반전하기
