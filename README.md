@@ -38,7 +38,7 @@ dek.cpp - 백준 deque
 
 토마토.cpp - 백준 토마토(미완성)
 
-지렁이바이러스.cpp - 백준 웜바이러스 문제 https://www.acmicpc.net/problem/2606
+지렁이바이러스.cpp - [테스트][https://www.acmicpc.net/problem/2606]
 
 jungsutriangle.cpp - 백준 정수 삼각형 문제 https://www.acmicpc.net/problem/1932
 
@@ -60,6 +60,3 @@ _.cpp - loneny photo
 
 ***
 
-Link: [테스트][googlelink]
-
-[googlelink]: https://google.com "Go google"
