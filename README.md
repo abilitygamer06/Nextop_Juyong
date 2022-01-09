@@ -1,5 +1,7 @@
 # Nextop_Juyong
 
+***
+
 ### Open CV
 
 소스.cpp - opencv 49쪽 영상을 화면에 출력하기
@@ -22,6 +24,8 @@ pointer.cpp - 자료구조 93쪽 포인터 예제
 
 array4.cpp - 자료구조 98쪽 문제 4 
 
+***
+
 ### 백준
 
 boomstr.cpp - 백준 문자열 폭발
@@ -40,12 +44,17 @@ jungsutriangle.cpp - 백준 정수 삼각형 문제 https://www.acmicpc.net/prob
 
 longseq.cpp - 백준 가장 긴 증가하는 부분 수열(미완성) https://www.acmicpc.net/problem/11053
 
+***
+
 ### 프로그래머스
 
 기능개발.cpp - 프로그래머스 큐/스택 기능개발
+
+***
 
 ### 올림피아드
 
 eraser.cpp - 정보올림피아드 지우개 문제
 
+***
 _.cpp - loneny photo
