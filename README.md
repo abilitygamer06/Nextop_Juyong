@@ -5,11 +5,11 @@
 ### Open CV
 |코드|설명|
 |:---:|:---:|
-|[소스.cpp](../main/소스.cpp)|opencv 49쪽 영상을 화면에 출력하기|
-|[MatOp3.cpp](../main/MatOp3.cpp)|opencv 94쪽 영상의 부분 영상 반전하기|
-|[rainbow.cpp](../main/rainbow.cpp)|opencv를 이용한 무지개색 만들기|
-|[Source.cpp](../main/Source.cpp)|opencv 4과 ~ 5과|
-|[opencv.cpp](../main/opencv.cpp)|5장 명암비2 ~ 6장 영상 논술|
+|[소스.cpp](../main/opencv/소스.cpp)|opencv 49쪽 영상을 화면에 출력하기|
+|[MatOp3.cpp](../main/opencv/MatOp3.cpp)|opencv 94쪽 영상의 부분 영상 반전하기|
+|[rainbow.cpp](../main/opencv/rainbow.cpp)|opencv를 이용한 무지개색 만들기|
+|[Source.cpp](../main/opencv/Source.cpp)|opencv 4과 ~ 5과|
+|[opencv.cpp](../main/opencv/opencv.cpp)|5장 명암비2 ~ 6장 영상 논술|
 
 ***
 
