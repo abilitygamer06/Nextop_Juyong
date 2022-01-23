@@ -53,6 +53,28 @@
 
 ### PS GYM
 ## BRONZE
-|코드|문제|
-|:---:|:---:|
+|코드|문제|성공여부|
+|:---:|:---:|:---:|:---:|
+|[두 수의 합.cpp](../main/PSGYM/두 수의 합.cpp)|두 수의 합|성공|
+|[사각형의 넓이.cpp](../main/PSGYM/사각형의 넓이.cpp)|사각형의 넓이|성공|
+|[배수의 합.cpp](../main/PSGYM/배수의 합.cpp)|배수의 합|성공|
+|[PS 자격증.cpp](../main/PSGYM/PS 자격증.cpp)|PS 자격증|성공|
+|[몫과 나머지.cpp](../main/PSGYM/몫과 나머지.cpp)|몫과 나머지|성공|
+|[홀짝.cpp](../main/PSGYM/홀짝.cpp)|홀짝|성공|
+|[구구단.cpp](../main/PSGYM/구구단.cpp)|구구단|성공|
+|[가장 큰 수.cpp](../main/PSGYM/가장 큰 수.cpp)|가장 큰 수|성공|
+|[과체중.cpp](../main/PSGYM/과체중.cpp)|과체중|성공|
+|[별 찍기1.cpp](../main/PSGYM/별 찍기1.cpp)|별 찍기1|성공|
+|[별 찍기2.cpp](../main/PSGYM/별 찍기2.cpp)|별 찍기2|성공|
+|[별 찍기3.cpp](../main/PSGYM/별 찍기3.cpp)|별 찍기3|성공|
+|[별 찍기4.cpp](../main/PSGYM/별 찍기4.cpp)|별 찍기4|성공|
+|[거꾸로.cpp](../main/PSGYM/거꾸로.cpp)|거꾸로|성공|
+|[자릿값.cpp](../main/PSGYM/자릿값.cpp)|자릿값|성공|
+|[최대 최소.cpp](../main/PSGYM/최대 최소.cpp)|최대 최소|성공|
+|[윤년.cpp](../main/PSGYM/윤년.cpp)|윤년|성공|
+|[2진법.cpp](../main/PSGYM/2진법.cpp)|2진법|성공|
+|[약수.cpp](../main/PSGYM/약수.cpp)|약수|성공|
+|[대소문자 바꾸기.cpp](../main/PSGYM/대소문자 바꾸기.cpp)|대소문자 바꾸기|성공|
+|[최대공약수와 최소공배수.cpp](../main/PSGYM/최대공약수와 최대공배수.cpp)|최대공약수와 최대공배수|성공|
+|[sosu.cpp](../main/PSGYM/sosu.cpp)|소수|미완|
 
