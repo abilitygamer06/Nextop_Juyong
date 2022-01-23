@@ -58,7 +58,7 @@
 |[두수의합.cpp](../main/PSGYM/두수의합.cpp)|두 수의 합|성공|
 |[사각형의넓이.cpp](../main/PSGYM/사각형의넓이.cpp)|사각형의 넓이|성공|
 |[배수의합.cpp](../main/PSGYM/배수의합.cpp)|배수의 합|성공|
-|[PS자격증.cpp](../main/PSGYM/PS 자격증.cpp)|PS 자격증|성공|
+|[PS자격증.cpp](../main/PSGYM/PS자격증.cpp)|PS 자격증|성공|
 |[몫과나머지.cpp](../main/PSGYM/몫과나머지.cpp)|몫과 나머지|성공|
 |[홀짝.cpp](../main/PSGYM/홀짝.cpp)|홀짝|성공|
 |[구구단.cpp](../main/PSGYM/구구단.cpp)|구구단|성공|
