@@ -48,6 +48,8 @@
 |:---:|:---:|:---:|
 |[eraser.cpp](../main/olympiad/eraser.cpp)|지우개|성공|
 |[_.cpp](../main/olympiad/_.cpp)|loneny photo|마지막 문제 시간초과|
+|[막대기.cpp](../main/olympiad/막대기.cpp)|막대기|성공|
+|[회문.cpp](../main/olympiad/회문.cpp)|회문|시간초과|
 
 ***
 
