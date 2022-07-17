@@ -4,17 +4,21 @@
 using namespace std;
 
 int main(void) {
-	// Ã¹Â° ÁÙ¿¡ ¿À´Â ¹®¼­
+	// ì²«ì§¸ ì¤„ì— ì˜¤ëŠ” ë¬¸ì„œ
 	string a;
-	// µÑÂ° ÁÙ¿¡ ¿À´Â ¹®¼­
+	// ë‘˜ì§¸ ì¤„ì— ì˜¤ëŠ” ë¬¸ì„œ
 	string b;
-	// µ¿ÀÏÇÑ ¹®ÀÚ È®ÀÎ
+	// ë™ì¼í•œ ë¬¸ì í™•ì¸
 	int checking = 0;
-	// °á°ú°ª
+	// ê²°ê³¼ê°’
 	int answer = 0;
 
 	getline(cin, a);
 	getline(cin, b);
+	if (b.empty()) {
+		cout << 0 << endl;
+		return 0;
+	}
 
 	for (int i = 0; i < a.size(); i++) {
 		for (int j = 0; j < b.size(); j++) {
@@ -24,7 +28,7 @@ int main(void) {
 					answer++;
 					checking = 0;
 				}
-				if (i == a.size()-1) {
+				if (i == a.size() - 1) {
 					cout << answer << endl;
 					return 0;
 				}
@@ -32,12 +36,19 @@ int main(void) {
 				continue;
 			}
 			if (a[i] != b[j]) {
-				if (checking != 0) checking = 0;
+				if (checking != 0) {
+					checking = 0;
+					if (a[i] == b[0]) {
+						checking++;
+						j = 0;
+					}
+				}
 				if (checking == b.size()) {
 					answer++;
 					checking = 0;
+					j = -1;
 				}
-				if (i == a.size()-1) {
+				if (i == a.size() - 1) {
 					cout << answer << endl;
 					return 0;
 				}
