@@ -91,3 +91,15 @@
 |[정렬.cpp](./PSGYM/정렬.cpp)|정렬|성공|sort 함수를 이용해 정렬|
 |[ABC_카드게임.cpp](./PSGYM/ABC_카드게임.cpp)|ABC 카드게임|성공||
 
+***
+
+### 연습 문제
+##e_1
+|코드|문제|성공여부|
+|:---:|:---:|:---:|
+|10부제.cpp|10부제|성공|
+|snack.cpp|과자|성공|
+|bowl.cpp|그릇|성공|
+|oven_clock.cpp|오븐 시계|성공|
+|intelligent_train.cpp|지능형 기차|성공|
+
