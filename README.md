@@ -44,7 +44,7 @@
 ***
 
 ### 올림피아드
-[asd](olympiad/정보 올림피아드 2022/정보 올림피아드 2022 고등부 문제)
+[2022 정보 올림피아드 문제](https://github.com/abilitygamer06/Nextop_Juyong/blob/7006daea6d734fe16a2840131646cfd55865c3b1/olympiad/%EC%A0%95%EB%B3%B4%20%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C%202022/%EC%A0%95%EB%B3%B4%20%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C%202022%20%EA%B3%A0%EB%93%B1%EB%B6%80%20%EB%AC%B8%EC%A0%9C)
 
 
 ***
